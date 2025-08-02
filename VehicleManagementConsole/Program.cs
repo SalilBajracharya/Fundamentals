@@ -1,0 +1,5 @@
+﻿using VehicleManagementConsole._1._ClassAndObjects;
+using VehicleManagementConsole.Encapsulation;
+
+ClassesAndObjectServices.RunClassesAndObjectServices();
+EncapsulatedService.RunEncapsulatedService();
