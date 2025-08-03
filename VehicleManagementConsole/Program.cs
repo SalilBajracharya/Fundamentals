@@ -1,5 +1,7 @@
 ﻿using VehicleManagementConsole._1._ClassAndObjects;
 using VehicleManagementConsole.Encapsulation;
+using VehicleManagementConsole.Inheritance;
 
 ClassesAndObjectServices.RunClassesAndObjectServices();
 EncapsulatedService.RunEncapsulatedService();
+InheritanceService.RunInheritanceService();
