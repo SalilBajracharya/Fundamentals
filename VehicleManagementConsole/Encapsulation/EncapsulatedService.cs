@@ -4,6 +4,8 @@
     {
         public static void RunEncapsulatedService()
         {
+            Console.WriteLine("Running Encapsulation Service...");
+
             var encapsulatedVehicle = new EncapsulatedVehicle(1)
             {
                 Make = "Toyota",

@@ -6,6 +6,8 @@ namespace VehicleManagementConsole._1._ClassAndObjects
     {
         public static void RunClassesAndObjectServices()
         {
+            Console.WriteLine("Running Classes & Object Service...");
+
             var vehicle1 = new VehicleModel
             {
                 Id = 1,
