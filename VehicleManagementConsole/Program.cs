@@ -1,4 +1,5 @@
 ﻿using VehicleManagementConsole._1._ClassAndObjects;
+using VehicleManagementConsole.Abstraction;
 using VehicleManagementConsole.Encapsulation;
 using VehicleManagementConsole.Inheritance;
 using VehicleManagementConsole.Polymorphism;
@@ -7,3 +8,4 @@ ClassesAndObjectServices.RunClassesAndObjectServices();
 EncapsulatedService.RunEncapsulatedService();
 InheritanceService.RunInheritanceService();
 PolymorphismService.RunPolymorphismService();
+AbstractionService.RunAbstractionService();
